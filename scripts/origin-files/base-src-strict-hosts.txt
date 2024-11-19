@@ -177,6 +177,7 @@
 127.0.0.1 as1.cfcnet.gdn
 127.0.0.1 aservices.pa
 127.0.0.1 aservices.party
+127.0.0.1 ashgrrwt.click
 127.0.0.1 asia-mine.beeppool.org
 127.0.0.1 asia.monerise.com
 127.0.0.1 asia.x11.beeppool.org
@@ -216,6 +217,7 @@
 127.0.0.1 back4.2giga.link
 127.0.0.1 backend.freecontent.win
 127.0.0.1 backupexplorer.beeppool.org
+127.0.0.1 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 127.0.0.1 baiduccdn1.com
 127.0.0.1 bajarlo.net
 127.0.0.1 basepush.com
@@ -244,6 +246,7 @@
 127.0.0.1 besti.ga
 127.0.0.1 bestmobiworld.com
 127.0.0.1 bestsecurepractice.com
+127.0.0.1 bestsrv.de
 127.0.0.1 beta.coinblind.com
 127.0.0.1 beta.coinrail.io
 127.0.0.1 beta.monerise.com
@@ -255,7 +258,12 @@
 127.0.0.1 biberukalap.com
 127.0.0.1 binarybusiness.de
 127.0.0.1 bip.beeppool.org
+127.0.0.1 bitcoin-cashcard.com
+127.0.0.1 bitcoin-cashcard.de
+127.0.0.1 bitcoin-cashcard.eu
 127.0.0.1 bitcoin-pay.eu
+127.0.0.1 bitcoin-pocket.de
+127.0.0.1 bitcoin-pocket.eu
 127.0.0.1 bitcoiner.win
 127.0.0.1 bizoninvest.com
 127.0.0.1 bjorksta.me
@@ -477,6 +485,9 @@
 127.0.0.1 d3ddidv77grh0f.cloudfront.net
 127.0.0.1 d3iz6lralvg77g.cloudfront.net
 127.0.0.1 d8acddffe978b5dfcae6.date
+127.0.0.1 dark-utilities.me
+127.0.0.1 dark-utilities.pw
+127.0.0.1 dark-utilities.xyz
 127.0.0.1 darking01.tk
 127.0.0.1 darking02.tk
 127.0.0.1 darking03.tk
@@ -539,6 +550,7 @@
 127.0.0.1 don.beeppool.org
 127.0.0.1 donate.cpufan.club
 127.0.0.1 donate.crypto-webminer.com
+127.0.0.1 donttbeevils.de
 127.0.0.1 doubleclick1.xyz
 127.0.0.1 doubleclick2.xyz
 127.0.0.1 doubleclick3.xyz
@@ -590,6 +602,10 @@
 127.0.0.1 eth-pocket.com
 127.0.0.1 eth-pocket.de
 127.0.0.1 eth-pocket.eu
+127.0.0.1 ethereum-cashcard.com
+127.0.0.1 ethereum-cashcard.de
+127.0.0.1 ethereum-cashcard.eu
+127.0.0.1 ethereum-pocket.com
 127.0.0.1 ethereum-pocket.de
 127.0.0.1 ethereum-pocket.eu
 127.0.0.1 ethmedialab.info
@@ -618,6 +634,7 @@
 127.0.0.1 eucsoft.com
 127.0.0.1 europe.monerise.com
 127.0.0.1 evengparme.com
+127.0.0.1 evilsbedont.de
 127.0.0.1 ewtuyytdf45.com
 127.0.0.1 exdynsrv.com
 127.0.0.1 exit.beeppool.org
@@ -731,6 +748,7 @@
 127.0.0.1 global.crypto.csgocpu.com
 127.0.0.1 gnrdomimplementation.com
 127.0.0.1 go.bestmobiworld.com
+127.0.0.1 go.fastspot.io
 127.0.0.1 go.megabanners.cf
 127.0.0.1 go2.mercy.ga
 127.0.0.1 gobba.myeffect.net
@@ -801,6 +819,7 @@
 127.0.0.1 igrid.org
 127.0.0.1 ihdvilappuxpgiv.ru
 127.0.0.1 iisl7wpf.me
+127.0.0.1 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
 127.0.0.1 img.jsecoin.com
 127.0.0.1 img.nahnoji.cz
 127.0.0.1 imhvlhaelvvbrq.ru
@@ -812,6 +831,7 @@
 127.0.0.1 intactoffers.cl
 127.0.0.1 intactoffers.club
 127.0.0.1 intellecthosting.net
+127.0.0.1 intelserviceupdate.com
 127.0.0.1 intense.hashvault.pro
 127.0.0.1 intensecoin.crypto-webminer.com
 127.0.0.1 interestingz.pw
@@ -955,7 +975,11 @@
 127.0.0.1 ma.herphemiste.com
 127.0.0.1 machieved.com
 127.0.0.1 magnetbay.eu
+127.0.0.1 mail.ghmproperties.com
+127.0.0.1 mail.itseasy.com
 127.0.0.1 mail.nimiq.com
+127.0.0.1 mail.shaferglazer.com
+127.0.0.1 mail.techniservinc.com
 127.0.0.1 mail.webmine.cz
 127.0.0.1 main.minero.cc
 127.0.0.1 main.xmrpool.net
@@ -980,6 +1004,7 @@
 127.0.0.1 mighbest.si
 127.0.0.1 mighbest.site
 127.0.0.1 min.imageflux.cf
+127.0.0.1 mine.blank.drawpad.org
 127.0.0.1 mine.gay-hotvideo.net
 127.0.0.1 mine.nahnoji.cz
 127.0.0.1 mine.terorie.com
@@ -1066,6 +1091,7 @@
 127.0.0.1 minexmr.stream
 127.0.0.1 mining-etcc.beeppool.org
 127.0.0.1 mining.best
+127.0.0.1 mining.bittubeapp.com
 127.0.0.1 mining.coin-hive.com
 127.0.0.1 mining.freebitco.in
 127.0.0.1 mining711.com
@@ -1141,6 +1167,7 @@
 127.0.0.1 mxcdn2.now.sh
 127.0.0.1 my-retrospace.sbhmn-miner.com
 127.0.0.1 my-rigs.com
+127.0.0.1 my.domain
 127.0.0.1 myadstats.com
 127.0.0.1 myfhology.sbhmn-miner.com
 127.0.0.1 mylovelymommy.tk
@@ -1159,6 +1186,7 @@
 127.0.0.1 nametraff.com
 127.0.0.1 napi-sumo.beeppool.org
 127.0.0.1 nathetsof.com
+127.0.0.1 nch-software.info
 127.0.0.1 nddmcconmqsy.ru
 127.0.0.1 nebabrop.com
 127.0.0.1 nec.beeppool.org
@@ -1177,27 +1205,33 @@
 127.0.0.1 nfwebminer.com
 127.0.0.1 ngrft.beeppool.org
 127.0.0.1 niematego.tk
+127.0.0.1 nim.sh
 127.0.0.1 nimiq-network.com
 127.0.0.1 nimiq.agency
 127.0.0.1 nimiq.com
+127.0.0.1 nimiq.icemining.ca
 127.0.0.1 nimiq.network
 127.0.0.1 nimiq.terorie.com
 127.0.0.1 nimiq.watch
 127.0.0.1 nimiqpool.com
 127.0.0.1 nimiqtest.ml
 127.0.0.1 nimiqtest.net
+127.0.0.1 nimwss-us-shark.lolopool.com
 127.0.0.1 ninaning.com
 127.0.0.1 ningtoldrop.ru
+127.0.0.1 nitrokod.com
 127.0.0.1 nitsche.top
 127.0.0.1 nkxdyorwbt.com
 127.0.0.1 nl.cookiescript.info
 127.0.0.1 nl1.monerise.com
+127.0.0.1 nmq.zxnexus.com
 127.0.0.1 noasic.beeppool.org
 127.0.0.1 noblock.pro
 127.0.0.1 node.alpha.nimiqpool.com
 127.0.0.1 node.cfcdist.gd
 127.0.0.1 node.cfcdist.gdn
 127.0.0.1 node.coin-hive.com
+127.0.0.1 node.nimiq.watch
 127.0.0.1 node.nimiqpool.com
 127.0.0.1 node.philpool.com
 127.0.0.1 node.viaxmr.com
@@ -1232,6 +1266,8 @@
 127.0.0.1 ns2.srcip.com
 127.0.0.1 ns2.srcips.com
 127.0.0.1 nullrefexcep.com
+127.0.0.1 nvidia-graphics.top
+127.0.0.1 nvidiacenter.com
 127.0.0.1 ny7f6goy.bid
 127.0.0.1 object.de
 127.0.0.1 oc.monerise.com
@@ -1273,6 +1309,7 @@
 127.0.0.1 pampopholf.com
 127.0.0.1 pan.whathyx.com
 127.0.0.1 panelsave.com
+127.0.0.1 panger-top.click
 127.0.0.1 papoto.com
 127.0.0.1 paris01.monero.hashvault.pro
 127.0.0.1 partner.beeppool.org
@@ -1476,6 +1513,7 @@
 127.0.0.1 qpmsybxqvlje.ru
 127.0.0.1 questionfly.com
 127.0.0.1 qwertycoin.crypto-webminer.com
+127.0.0.1 r.twotouchauthentication.online
 127.0.0.1 r8nu86wg.me
 127.0.0.1 rack.cryptaloot.pro
 127.0.0.1 rand.com.ru
@@ -1499,6 +1537,7 @@
 127.0.0.1 rintindown.com
 127.0.0.1 rintinwa.com
 127.0.0.1 rmawm7mw.top
+127.0.0.1 roastedvolt.net
 127.0.0.1 rock.cryptaloot.pro
 127.0.0.1 rock.cryptoloot.pro
 127.0.0.1 rock.directprimal.com
@@ -1761,6 +1800,8 @@
 127.0.0.1 seed-pol-3.inf.nimiq.network
 127.0.0.1 seed-pol-4.inf.nimiq.net
 127.0.0.1 seed-pol-4.inf.nimiq.network
+127.0.0.1 seed.nimiq.by
+127.0.0.1 seed.nimiq.jp
 127.0.0.1 seed.nimiqpool.com
 127.0.0.1 seed1.nimiq-network.com
 127.0.0.1 seed1.nimiqtest.net
@@ -1965,6 +2006,8 @@
 127.0.0.1 traumasister.tk
 127.0.0.1 traviilo.com
 127.0.0.1 trtl.beeppool.org
+127.0.0.1 trustaproiam.de
+127.0.0.1 trusteverything.de
 127.0.0.1 tubetitties.com
 127.0.0.1 tulip18.com
 127.0.0.1 turnsocial.com
@@ -2003,6 +2046,7 @@
 127.0.0.1 uswest.cpufan.club
 127.0.0.1 uzljra.ru
 127.0.0.1 v90327ux.beget.tech
+127.0.0.1 vceilinichego.ru
 127.0.0.1 vcfs6ip5h6.bi
 127.0.0.1 vcfs6ip5h6.bid
 127.0.0.1 vcrypt.net
@@ -2027,6 +2071,7 @@
 127.0.0.1 vkcdnservice.appspot.com
 127.0.0.1 vkcdnservice.com
 127.0.0.1 vl8c4g7tmo.me
+127.0.0.1 vmi503011.contaboserver.net
 127.0.0.1 vot.beeppool.org
 127.0.0.1 voumxy.ru
 127.0.0.1 vpn2.beeppool.org
@@ -2058,6 +2103,9 @@
 127.0.0.1 web.minr.pw
 127.0.0.1 web.rocks.io
 127.0.0.1 web.stati.bid
+127.0.0.1 web.xmrpool.eu
+127.0.0.1 webapi.salamantex.com
+127.0.0.1 webapi.staging.salamantex.com
 127.0.0.1 webassembly.st
 127.0.0.1 webassembly.stream
 127.0.0.1 webchain.beeppool.org
@@ -3444,6 +3492,7 @@
 127.0.0.1 xml.mining.best
 127.0.0.1 xmr-useast1.beeppool.org
 127.0.0.1 xmr.101010.pl
+127.0.0.1 xmr.2miners.com
 127.0.0.1 xmr.co
 127.0.0.1 xmr.coinlab.biz
 127.0.0.1 xmr.cool
@@ -3481,6 +3530,7 @@
 127.0.0.1 yrdrtzmsmt.com
 127.0.0.1 yuyyio.com
 127.0.0.1 zano.beeppool.org
+127.0.0.1 zarabotaibitok.ru
 127.0.0.1 zavzlen.ru
 127.0.0.1 zcl-eu.beeppool.org
 127.0.0.1 zclassic.beeppool.org
