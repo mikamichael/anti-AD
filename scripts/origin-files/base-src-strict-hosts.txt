@@ -311,4 +311,4 @@
 127.0.0.1 xmr.2miners.com
 127.0.0.1 xmr.cool
 127.0.0.1 zymerget.win
-<a href="https://projects.gitlab.io/auth?domain=https://zerodot1.gitlab.io&amp;state=hIoBJGa2bOwIy01nSo9R9g==">Found</a>.
+<a href="https://projects.gitlab.io/auth?domain=https://zerodot1.gitlab.io&amp;state=o3tX83Gf959apvRAIeCzag==">Found</a>.
